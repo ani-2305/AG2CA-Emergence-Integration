@@ -66,7 +66,7 @@ EMERGENCE_API_KEY=your-emergence-key
 
 # OpenAI Configuration
 OPENAI_API_KEY=your-openai-key
-OPENAI_MODEL=gpt-4
+OPENAI_MODEL=gpt-4o
 OPENAI_TEMPERATURE=0.7
 ```
 
