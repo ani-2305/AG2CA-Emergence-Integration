@@ -32,7 +32,7 @@ This repository demonstrates how to integrate [AutoGen](https://github.com/micro
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ag2ca-integration.git
+git clone https://github.com/<your username>/ag2ca-integration.git
 cd ag2ca-integration
 ```
 
